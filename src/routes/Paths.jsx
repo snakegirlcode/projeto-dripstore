@@ -3,6 +3,7 @@ import PageLayout from "../pages/PageLayout";
 import HomePage from "../pages/HomePage";
 import ProductListingPage from "../pages/ProductListingPage";
 import ProductViewPage from "../pages/ProductViewPage";
+import UnderConstruction from "../pages/UnderConstruction";
 
 const Paths = () => {
   return (
@@ -12,6 +13,7 @@ const Paths = () => {
           <Route index element={<HomePage />} />
           <Route path="/produtos" element={<ProductListingPage />} />
           <Route path="/produto/:id" element={<ProductViewPage />} />
+          <Route path="*" element={<UnderConstruction />} />
         </Route>
       </Routes>
     </BrowserRouter>
