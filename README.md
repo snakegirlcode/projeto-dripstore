@@ -82,9 +82,10 @@ http://localhost:5173/produto/1
 Para dúvidas ou sugestões, entre em contato:
 
 Thaís de Sousa Campos
+```
 engethaiscampos@gmail.com
+```
 
 ## Licença
 
 Este projeto está baseado no repositório Digital College e segue a licença original do mesmo.
-```
