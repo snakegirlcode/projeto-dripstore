@@ -28,7 +28,7 @@ O projeto foi desenvolvido utilizando React, e segue uma estrutura organizada co
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/snakegirlcode/projeto-dripstore
+git clone https://github.com/snakegirlcode/projeto-dripstore.git
 ```
 
 2. Acesse a pasta do projeto:
