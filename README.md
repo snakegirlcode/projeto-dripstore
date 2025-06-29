@@ -1,6 +1,6 @@
 # Digital Store - Projeto Base para Loja Virtual
 
-Este projeto é uma base para desenvolvimento de uma loja virtual, fornecido pelo Digital College. Foi usado como referência para a criação do meu projeto pessoal.
+Este projeto é uma base para desenvolvimento de uma loja virtual, fornecido pelo Digital College. Foi usado como referência para a criação do projeto de Front-End do curso de Desenvolvimento Web do IEL/CE.
 
 ## Sobre o Projeto
 
