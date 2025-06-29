@@ -82,9 +82,8 @@ http://localhost:5173/produto/1
 Para dúvidas ou sugestões, entre em contato:
 
 Thaís de Sousa Campos
-```
+
 engethaiscampos@gmail.com
-```
 
 ## Licença
 
